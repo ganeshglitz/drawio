@@ -48,6 +48,16 @@
         <mxCell id="3lumVSMZ-ujpwdsF0KcU-0" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="40" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="3lumVSMZ-ujpwdsF0KcU-1" value="Officer" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="50" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3lumVSMZ-ujpwdsF0KcU-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-0.0062" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="159.5" y="80" as="sourcePoint" />
+            <mxPoint x="240" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
